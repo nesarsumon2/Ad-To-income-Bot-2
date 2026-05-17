@@ -4,7 +4,7 @@ $settings_file = __DIR__ . '/setting.json';
 $user_dir      = __DIR__ . '/user';         
 $user_file     = $user_dir . '/user.json';  
 
-$admin_chat_id = "8216085439"; // ✅ আপনার অ্যাডমিন আইডি
+$admin_chat_id = "6958723400"; // ✅ আপনার অ্যাডমিন আইডি
 
 // ১. সেটিংস ফাইল তৈরি (না থাকলে)
 $default_settings =[
